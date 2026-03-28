@@ -18,5 +18,5 @@ Este repositorio contiene un proyecto realizado como parte de un curso de la UTN
 ## Resultado
 
 ## Autor
-Erika Krawinkel - [LinkedIn] 
+Erika Krawinkel - [LinkedIn] https://www.linkedin.com/in/erika-krawinkel-43012b265/
 
