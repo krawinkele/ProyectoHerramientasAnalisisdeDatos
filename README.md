@@ -7,8 +7,9 @@ Este repositorio contiene un proyecto realizado como parte de un curso de la UTN
 
 
 ## Descripción
-La Generación Z, compuesta por jóvenes nacidos entre mediados de los años 90 y principios de la década de 2010, enfrenta un panorama único en el ámbito de la salud mental. Marcados por una era digital sin precedentes, un entorno social altamente competitivo y eventos globales que han generado incertidumbre, esta generación lidia con desafíos como la ansiedad, la depresión y el estrés en niveles alarmantes.
-La Generación Z representa una generación única, moldeada por un mundo digitalizado, desafíos globales y un entorno social en constante cambio. Sus características los posicionan como agentes clave para el futuro, pero también plantean retos importantes en áreas como la educación, la salud mental y las relaciones interpersonales.
+"La Generación Z, compuesta por jóvenes nacidos entre mediados de los años 90 y principios de la década de 2010, enfrenta un panorama único en el ámbito de la salud mental. Marcados por una era digital sin precedentes, un entorno social altamente competitivo y eventos globales que han generado incertidumbre, esta generación lidia con desafíos como la ansiedad, la depresión y el estrés en niveles alarmantes.
+La Generación Z representa una generación única, moldeada por un mundo digitalizado, desafíos globales y un entorno social en constante cambio. Sus características los posicionan como agentes clave para el futuro, pero también plantean retos importantes en áreas como la educación, la salud mental y las relaciones interpersonales."
+"Se seleccionó este dataset debido a que aborda variables relacionadas con el uso de la tecnología, hábitos digitales y bienestar emocional, lo cual resulta pertinente para el análisis del burnout. Además, se enfoca en comportamientos característicos de la Generación Z, un grupo altamente expuesto al uso de pantallas y redes sociales, lo que permite analizar cómo estos factores influyen en su salud mental."
 
 ## Dataset
 - *Fuente*: Kaggle
