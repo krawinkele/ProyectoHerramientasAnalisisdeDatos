@@ -24,6 +24,13 @@ La Generación Z representa una generación única, moldeada por un mundo digita
 - Power BI
   
 ## Resultado
+Promedio de ansiedad: 4,75
+Promedio de fatiga emocional: 5,58
+Promedio de horas de gaming: 1,61 h/día
+Promedio de horas en pantalla: 7,02 h/día
+% de población con burnout alto: 53,88%
+Mayor nivel de ansiedad y fatiga: rango 2–4 h de gaming
+Tendencia general: A mayor uso digital, mayor malestar emocional
 
 ## Autor
 Erika Krawinkel - [LinkedIn] https://www.linkedin.com/in/erika-krawinkel-43012b265/
