@@ -42,9 +42,13 @@ Mayor nivel de ansiedad y fatiga: rango 2–4 h de gaming /
 Tendencia general: A mayor uso digital, mayor malestar emocional.
 
 El análisis evidencia un nivel moderado de ansiedad (4,75/10) junto con un alto porcentaje de riesgo de burnout (53,88%), lo que sugiere un contexto general de vulnerabilidad en el bienestar emocional.
+
 Las redes sociales se posicionan como el factor de mayor impacto negativo, mostrando un aumento sostenido en los niveles de ansiedad y fatiga a medida que incrementan las horas de uso, posiblemente debido a la sobreexposición a estímulos, la comparación social y la falta de desconexión.
+
 En contraste, el gaming presenta una relación débil con el bienestar emocional, lo que sugiere que puede funcionar más como una actividad recreativa.
+
 En cuanto a las variables demográficas, edad y género no muestran diferencias significativas en el riesgo de burnout, lo que refuerza la idea de que el fenómeno está más vinculado a los hábitos que a características personales.
+
 Por último, los hábitos de descanso resultan determinantes: **menores horas y peor calidad de descanso se asocian con mayores niveles de burnout.**
 
 ## Autor
