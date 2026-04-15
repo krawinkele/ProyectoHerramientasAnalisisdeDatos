@@ -8,8 +8,11 @@ Este repositorio contiene un proyecto realizado como parte de un curso de la UTN
 
 ## Descripción
 Se seleccionó este dataset debido a que aborda variables relacionadas con el uso de la tecnología, hábitos digitales y bienestar emocional, lo cual resulta pertinente para el análisis del burnout. Además, se enfoca en comportamientos característicos de la Generación Z, un grupo altamente expuesto al uso de pantallas y redes sociales, lo que permite analizar cómo estos factores influyen en su salud mental.
+
 El dataset presenta una gran cantidad de variables que permiten explorar múltiples dimensiones del comportamiento digital y su impacto en el bienestar. A partir de esto, surgieron diversas preguntas de análisis posibles. Sin embargo, para dar claridad y enfoque al trabajo, se definió una pregunta principal acompañada de dos preguntas secundarias, priorizando aquellas con mayor relación con el burnout.
+
 En este contexto, el burnout se aborda como un fenómeno cada vez más presente en jóvenes, asociado no solo a exigencias académicas o laborales, sino también a hábitos digitales intensivos. El uso prolongado de redes sociales, la exposición constante a estímulos y la dificultad para desconectarse pueden impactar negativamente en la salud mental.
+
 A su vez, los hábitos saludables (especialmente el descanso) cumplen un rol clave como factores protectores. Analizar la relación entre sueño, uso de pantallas y bienestar emocional permite entender mejor cómo se construye (o deteriora) el equilibrio mental en la vida cotidiana.
 
 ## Dataset
